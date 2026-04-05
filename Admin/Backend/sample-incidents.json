@@ -1,0 +1,23 @@
+[
+  {
+    "incidentId": "inc-001",
+    "assignedAdminId": "admin-001",
+    "reporterName": "Anonymous User",
+    "cid": "bafybeicy234jy6a7vi76cna2b4jt7kbz2xnnepm34lvm74vfoajv4p2gyu",
+    "mimeType": "image/jpeg",
+    "timestamp": "2026-03-31T10:15:00.000Z",
+    "status": "submitted",
+    "description": "Suspicious activity reported near market area",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "evidenceType": "image",
+    "sha256Hash": "8c7d0f4c1dexamplehash",
+    "previousHash": "prevhash001",
+    "blockId": "block-001",
+    "blockHash": "blockhash001",
+    "simulatedTxId": "tx-demo-001",
+    "reviewedAt": null,
+    "createdAt": "2026-03-31T10:15:00.000Z",
+    "updatedAt": "2026-03-31T10:15:00.000Z"
+  }
+]
